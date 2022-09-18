@@ -1,2 +1,1 @@
-# Comentarios_CSharp
-Repositorio do curso de Comentários em C#
+# Repositorio do curso de Comentários em C#
