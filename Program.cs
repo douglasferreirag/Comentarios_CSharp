@@ -6,6 +6,14 @@ using OperadoresAritmeticosCSharp.Models;
 Pessoa p = new Pessoa();
 
 //Atribui o nome e a idade para a pessoa
+// Passando o nome Buta
+// e passando a idade 20
+
+/*
+      Atribui o nome e a idade para a pessoa
+      Passando o nome Buta
+        e passando a idade 20
+*/
 p.Nome = "Buta";
 p.Idade = 20;
 
