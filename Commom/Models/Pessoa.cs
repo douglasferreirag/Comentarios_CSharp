@@ -21,5 +21,11 @@ namespace ExemploFundamentos.Commom.Models
                     Console.WriteLine($"Olá, meu nome é:  {Nome} , e tenho {Idade} anos");
 
             }
+
+            public void CadastrarNovoERPXYZDaEmpresa(){
+
+                 
+
+            }
     }
 }
