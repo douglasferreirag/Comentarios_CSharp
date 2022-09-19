@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace OperadoresAritmeticosCSharp.Models
+namespace OperadoresAritmeticosCSharp.Commom.Models
 {
     public class Calculadora
     {

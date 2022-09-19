@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExemploFundamentos.Models
+namespace ExemploFundamentos.Commom.Models
 {
+        /// <summary>
+        ///     Representa  uma pessoa física.
+        /// </summary>
     public class Pessoa
     {
             public string? Nome { get; set; }

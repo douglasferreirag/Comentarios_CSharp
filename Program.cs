@@ -1,8 +1,10 @@
-﻿using ExemploFundamentos.Models;
-using OperadoresAritmeticosCSharp.Models;
+﻿using ExemploFundamentos.Commom.Models;
+using OperadoresAritmeticosCSharp.Commom.Models;
 
 
 //Instância da classe Pessoa.
+
+
 Pessoa p = new Pessoa();
 
 //Atribui o nome e a idade para a pessoa
