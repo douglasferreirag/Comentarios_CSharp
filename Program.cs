@@ -22,7 +22,10 @@ p.Idade = 20;
 // Faz a pessoa se apresentar
 p.Apresentar();
 
+Calculadora c= new Calculadora();
 
+c.Somar(3, 5);
+c.Subtrair(3, 5);
 
 
 
@@ -260,7 +263,7 @@ p.Apresentar();
 //       case "u":
 //             Console.WriteLine("Vogal");
 //             break;
-      
+
 //       default:
 //             Console.WriteLine("Não é uma vogal");
 //             break;
@@ -379,7 +382,7 @@ p.Apresentar();
 // }
 // else
 // {
-  
+
 //       Console.WriteLine("Desculpe não temos a quantidade desejada em estoque");
 
 // }

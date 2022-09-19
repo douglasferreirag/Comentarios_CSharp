@@ -13,6 +13,9 @@ namespace ExemploFundamentos.Commom.Models
             public string? Nome { get; set; }
             public int Idade { get; set; }
 
+           /// <summary>
+           ///     Faz a pessoa se apresentar  dizendo nome e idade.
+          /// </summary>
             public void Apresentar(){
 
                     Console.WriteLine($"Olá, meu nome é:  {Nome} , e tenho {Idade} anos");
